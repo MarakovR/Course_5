@@ -1,0 +1,12 @@
+aiopg==1.4.0
+async-timeout==4.0.2
+certifi==2023.7.22
+charset-normalizer==3.2.0
+idna==3.4
+pip==23.1.2
+psycopg-binary==3.1.9
+psycopg2-binary==2.9.6
+requests==2.31.0
+setuptools==68.0.0
+urllib3==2.0.4
+wheel==0.40.0
